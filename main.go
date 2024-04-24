@@ -193,7 +193,6 @@ func controlBoard(board Board) bool {
 		return false
 	}
 
-	
 	return true
 }
 
