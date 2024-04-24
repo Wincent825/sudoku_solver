@@ -1,0 +1,10 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/Wincent825/sudoku_solver"
+
+[[transformers]]
+name = "gofmt"
